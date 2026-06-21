@@ -1,0 +1,6 @@
+{
+  "name": "HS Lab: Banque de TPs & Sécurité",
+  "description": "Plateforme pédagogique complète pour les Travaux Pratiques de chimie. Inclut une banque de TPs, une base de données SDS interactive, des quiz de sécurité complexes et un guide GHS complet.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
